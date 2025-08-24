@@ -36,7 +36,7 @@ I used to be more active and visible on GitHub, but now I prefer to work quietly
 
 To see the evolution of my skills and see how I've matured as a developer, you can visit my current GitHub profile, which showcases my work from age 17 and up.
 
-I don't use this GitHub profile anymore, there are still some CI/CD automations running which is fascinating, the code most be stable enough to last years.
+I don't use this archived GitHub profile anymore, there are still some CI/CD automations running which is fascinating, the code most be stable enough to last years.
 
 Click the GIF below to visit my archived profile.
 
