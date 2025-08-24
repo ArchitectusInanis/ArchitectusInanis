@@ -32,6 +32,8 @@ Due to its proprietary nature and the significant competitive advantage it provi
 
 This archived portfolio contains my projects from when I was 17 and under. I created it to separate my earlier work from my current projects and to demonstrate my growth and changing philosophy in the art of hacking.
 
+I used to be more active and visible on GitHub, but now I prefer to work quietly in the background.
+
 To see the evolution of my skills and see how I've matured as a developer, you can visit my current GitHub profile, which showcases my work from age 17 and up.
 
 Click the GIF below to visit my archived profile.
