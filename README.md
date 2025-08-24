@@ -20,9 +20,9 @@ My GitHub profile serves as a professional portfolio, showcasing my journey from
 
 ---
 
-### Key Projects & Expertise
+### ShadowStrikeOS
 
-My focus is on advanced, private development that provides a significant competitive advantage. Due to its proprietary nature, I showcase the architecture and capabilities of my core projects rather than the code itself.
+My focus is on advanced, private development that provides a significant competitive advantage. Due to its proprietary nature, I showcase the architecture and capabilities of my core project rather than the code itself.
 
 * **Custom Offensive Security OS:** I architect and maintain a private, custom operating system engineered for offensive security operations. Built on a hardened Debian base, this highly optimized environment integrates Kali Linux repositories and features a custom kernel with performance patches. It also includes:
     * **AI-Driven Tooling:** Developed an autonomous AI for advanced security tasks.
