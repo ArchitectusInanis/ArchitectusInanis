@@ -30,6 +30,12 @@ My decision to keep this project private is to protect its proprietary nature an
 
 ---
 
+# Ultimate Project
+
+Despite me creating less GitHub projects due to focusing more on learning more skills, I have developed a single project to demonstrate every single capability I have and all the skills into one project. This project is public and it will show how my code has evolved since I was 17. I am calling this project **Omnisector**.
+
+---
+
 ### My Journey as a Developer
 
 This profile is a showcase of my work since age 17, representing my professional maturity and changed approach to security. I have moved from public contributions to quiet, focused development in private.
