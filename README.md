@@ -56,7 +56,7 @@ This portfolio represents my evolution from a generalist developer to a speciali
 
 This profile is a showcase of my work since age 17, representing my professional maturity and changed approach to security. I have moved from public contributions to quiet, focused development in private.
 
-My archived profile contains projects from my earlier years and serves as a testament to my growth. The projects there, like the CI/CD automations for **ShadowGuardAI**, which used AI to mass-produce defensive tools, show my foundational skills and evolution as a security engineer.
+My archived profile contains projects from my earlier years and serves as a testament to my growth. The projects there show my foundational skills and evolution as a security engineer.
 
 <p align="center">
   <a href="https://github.com/CY83R-3X71NC710N" target="_blank" rel="noopener noreferrer">
