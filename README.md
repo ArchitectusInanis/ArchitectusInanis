@@ -1,7 +1,10 @@
 <h1 align="center">ArchitectusInanis</h1>
 
+<h1 align="center">Cybersecurity Architect & Polymath</h1>
+
+---
+
 <p align="center">
-  <strong>Cybersecurity Architect & Polymath </strong><br><br>
   <strong>Offensive Security Architect & Red Team Engineer</strong><br>
   <em>Specializing in Offensive Security, OS Internals, and AI-driven Tooling</em><br>
   <strong>Actively Studying:</strong> Red Teaming, Bug Bounty Hunting, Threat Hunting, AI Engineering, and Zero-Day Research
