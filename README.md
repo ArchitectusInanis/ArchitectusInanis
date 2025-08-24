@@ -16,6 +16,8 @@
 
 In my past I have done much work on GitHub. Now I just use GitHub to mantain of Custom ShadowStrikeOS Operating System. This integrates autonomous AI capabilites (Nicknamed: Hyper-Lethal Vector Project), AI mentorship capabilities (Nicknamed: Operator-Zero), extensiblity of having a custom curated hacking toolkit, stability of debian, repos of Kali Linux, custom rofi kali menu searching, fixed VMware Fusion copy and paste capability on Wayland through direct patches to the operating system, custom kernel, compiled packages to ensure speed. This is not a normal hacking distribution. This is not something that script kiddies use, a script kiddie wouldn't understand how to use this distribution. This is an operating system that gives me a force muliplying competitive edge to any company I decide to work for. This is why the project is private and why I will not share it, due to my ambition.
 
+---
+
 To view the GitHub profile I created when I was age 17 and under here is the archive link, my current GitHub profile is my 17+ projects so you can see how much I have grown, the GitHub profile also says everything I have done at that age. Click the GIF animation below to be directed to my old GitHub profile. I have achieved much since then.
 
 ---
