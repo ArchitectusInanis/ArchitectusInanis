@@ -22,7 +22,7 @@ To view the GitHub profile I created when I was age 17 and under here is the arc
 
 <p align="center">
   <a href="https://github.com/CY83R-3X71NC710N" target="_blank" rel="noopener noreferrer">
-    <img src="cy83r-3x71nc710n.gif" alt="CY83R-3X71NC710N Archive" width="150">
+    <img src="cy83r-3x71nc710n-text.gif" alt="CY83R-3X71NC710N Archive" width="150">
   </a>
 </p>
 
