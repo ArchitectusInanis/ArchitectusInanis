@@ -26,7 +26,7 @@ My primary projects on GitHub are private, serving as a dynamic portfolio of my 
 
 * **Performance Enhancements**: Includes custom patches for improved user experience, such as fixing VMware Fusion copy/paste on Wayland, and pre-compiled packages for speed.
   
-* **More** I can and will not talk about here.
+* **More** I can not and will not talk about here.
 
 Due to its proprietary nature and the significant competitive advantage it provides, this project is kept private. I am prepared to provide a video demonstration to prospective employers.
 
