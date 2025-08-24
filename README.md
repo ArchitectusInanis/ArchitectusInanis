@@ -66,7 +66,7 @@ My journey began with a fundamental curiosity about systems, leading to a deep, 
 
 * **Pioneering AI-driven Tooling:** My work at **ShadowGuardAI** showcases my foundational skills in using AI to mass-produce defensive tools. I also developed **Event_Zero**, an experimental, AI-driven malware analysis engine that autonomously dissects malicious code to a high degree of fidelity.
 * **Demonstrated Expertise:** My profile highlights top-tier performance in national competitions like the **NSA Codebreaker Challenge** (placing in the top 16% nationally as a solo competitor against multi-person university teams in 10 days of a four month competition) and **Cyberstart America**, where I was a three-time National Cyber Scholar and consistently ranked in the top 1%.
-* **FBI Experience** through the FBI TEAM program, a highly competitive program that the FBI hosts, I gained valuable experience in Business, Social Communication, Psychology, and Cybersecurity.
+* **FBI Experience** through the FBI TEAM program, a highly competitive program that the FBI hosts, I gained valuable experience in Business, Social Communication, Psychology, and Cybersecurity. Additionally, I recieved a personal FBI contact and mentor.
 * **Production-Grade Engineering:** Projects like **Eclipse Shield** demonstrate my ability to engineer production-grade applications with comprehensive security, addressing the full OWASP Top 10 list.
 * **Valued Open-Source Contributor:** I actively contributed to the open-source community by reviving unmaintained projects and patching critical vulnerabilities in widely used tools.
 
