@@ -1,53 +1,37 @@
----
-
-<h1 align="center">ArchitectusInanis</h1>
-
----
+# ArchitectusInanis
 
 <p align="center">
-  <strong>Cybersecurity Polymath & Architect</strong><br>
+  <strong>Offensive Security Architect & Red Team Engineer</strong><br>
   <em>Specializing in Offensive Security, OS Internals, and AI-driven Tooling</em><br>
-  <em><strong>Actively Studying:</strong> Red Teaming, Bug Bounty Hunting, Threat Hunting, AI Engineering, and Zero-Day Research</em><br>
-  <strong><em>Trajectory: Advanced Red Teaming, Tier 1 Exploit Development, and Zero-Day Research.</em></strong><br>
-  <strong>Targeting: Chief Security Architect & Offensive Security Architect</strong>
+  <strong>Actively Studying:</strong> Red Teaming, Bug Bounty Hunting, Threat Hunting, AI Engineering, and Zero-Day Research
 </p>
 
 ---
 
-My primary projects on GitHub are private, serving as a dynamic portfolio of my skills: I have my old CY83R-3X71NC710N profile and another highly-advanced project on this profile that demonstrates all my skills. This includes the maintenance of ShadowStrikeOS, a custom operating system designed to provide a competitive advantage in offensive security. This is the operating system that elite special forces hackers use.
-
-**ShadowStrikeOS** is not a standard hacking distribution. It's a highly optimized environment that integrates several advanced capabilities:
-
-* **AI-Driven Tooling**: Features an autonomous AI, codenamed "Hyper-Lethal Vector" for advanced security tasks.
-
-* **AI Mentorship**: Includes an AI-powered assistant, "Operator-Zero" to guide and streamline complex operations.
-
-* **Custom Security Environment**: Built on the stability of Debian with Kali Linux repositories, a custom kernel, and a custom rofi menu for efficient toolkit navigation.
-
-* **Performance Enhancements**: Includes custom patches for improved user experience, such as fixing VMware Fusion copy/paste on Wayland, and pre-compiled packages for speed.
-  
-* **More** I can not and will not talk about here.
-
-Due to its proprietary nature and the significant competitive advantage it provides, this project is kept private. I am prepared to provide a video demonstration to prospective employers.
+My GitHub profile serves as a professional portfolio, showcasing my journey from an early developer to a specialist in advanced cybersecurity. While my primary projects are private, they form a dynamic record of my skills and career growth.
 
 ---
 
-This archived portfolio contains my projects from when I was 17 and under. I created it to separate my earlier work from my current projects and to demonstrate my growth and changing philosophy in the art of hacking.
+### Key Projects & Expertise
 
-I used to be more active and visible on GitHub, but now I prefer to work quietly in the background.
+* **Custom Offensive Security OS:** I architect and maintain a private, custom operating system for offensive security operations. This highly optimized environment is built on Debian, integrates Kali Linux repositories, and features a custom kernel with performance patches. It also includes:
+    * **AI-Driven Tooling:** Developed an autonomous AI for advanced security tasks.
+    * **AI Mentorship:** Integrated an AI-powered assistant to guide and streamline complex operations.
+    * **Custom Environment:** Utilizes a custom `rofi` menu for efficient toolkit navigation.
+    * **Performance Enhancements:** Includes custom patches for improved user experience.
 
-To see the evolution of my skills and see how I've matured as a developer, you can visit my current GitHub profile, which showcases my work from age 17 and up.
-
-I don't use this archived GitHub profile anymore, there are still some CI/CD automations running which is fascinating, the code must be stable enough to last years. One of the organizations that I created: ShadowGuardAI used CI/CD and AI mass-produce defensive AI tools.
-
-Click the GIF below to visit my archived profile.
+My decision to keep this project private is to protect its proprietary nature and the significant competitive advantage it provides. I can offer a private video demonstration to prospective employers.
 
 ---
+
+### My Journey as a Developer
+
+This profile is a showcase of my work since age 17, representing my professional maturity and changed approach to security. I have moved from public contributions to quiet, focused development in private.
+
+My archived profile contains projects from my earlier years and serves as a testament to my growth. The projects there, like the CI/CD automations for **ShadowGuardAI**, which used AI to mass-produce defensive tools, show my foundational skills and evolution as a security engineer.
 
 <p align="center">
   <a href="https://github.com/CY83R-3X71NC710N" target="_blank" rel="noopener noreferrer">
     <img src="cy83r-3x71nc710n-text.gif" alt="CY83R-3X71NC710N Archive">
   </a>
 </p>
-
----
