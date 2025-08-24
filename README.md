@@ -11,7 +11,7 @@
 <p align="center">
   <strong>Offensive Security Architect & Red Team Engineer</strong><br>
   <em>Specializing in Offensive Security, OS Internals, and AI-driven Tooling</em><br>
-  <strong>Expertise</strong> Red Teaming, Bug Bounty Hunting, Threat Hunting, AI Engineering, and Zero-Day Research
+  <strong>Expertise in</strong> Red Teaming, Bug Bounty Hunting, Threat Hunting, AI Engineering, and Zero-Day Research
 </p>
 
 ---
