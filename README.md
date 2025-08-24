@@ -14,7 +14,7 @@
 
 ---
 
-My primary projects on GitHub are private, serving as a dynamic portfolio of my skills: I have my old CY83R-3X71NC710N profile and another highly-advanced project on this profile that demonstrates all my skills. This includes the maintenance of ShadowStrikeOS, a custom operating system designed to provide a competitive advantage in offensive security. This is the operating system that special forces hackers use.
+My primary projects on GitHub are private, serving as a dynamic portfolio of my skills: I have my old CY83R-3X71NC710N profile and another highly-advanced project on this profile that demonstrates all my skills. This includes the maintenance of ShadowStrikeOS, a custom operating system designed to provide a competitive advantage in offensive security. This is the operating system that elite special forces hackers use.
 
 **ShadowStrikeOS** is not a standard hacking distribution. It's a highly optimized environment that integrates several advanced capabilities:
 
