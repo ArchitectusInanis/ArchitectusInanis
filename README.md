@@ -30,7 +30,7 @@ My discipline is limitless, and my drive is singular: to get in. Every system I'
 
 The real question for any organization isn't whether their system can be breached, but how long it will take. Do you want a superficial security assessment, or a deep-dive that will expose the vulnerabilities that a determined attacker will eventually find? My commitment is to provide the latter. With sufficient time, I can guarantee that I will discover the one flaw that brings your system down, allowing you to fix it before a malicious actor does.
 
-What will I do?: I will save your company millions of dollars in damages, I will work with any team to achieve my goal. I will multiply the force of your company. I will ensure your company is dynamically secure. The question isn't whether you want me in your company, is is whether your company can afford not have another person who can adapt to the sophisticated landscape of malicious actors. The answer based on the current threat landscape especially with the rise of AI/AGI as a force multiplyer for cybercriminals, provides the answer you are looking for.
+What will I do?: I will save your company millions of dollars in damages, I will work with any team to achieve my goal. I will multiply the force of your company. I will ensure your company is dynamically secure. The question isn't whether you want me in your company, is is whether your company can afford not have another person who can adapt to the sophisticated landscape of malicious actors. The answer based on the current threat landscape especially with the rise of AI/AGI as a force multiplyer for cybercriminals, provides the only answer you are looking for.
 
 ---
 
