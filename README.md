@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Cybersecurity Polymath & Architect</strong><br>
   <em>Specializing in Offensive Security, OS Internals, and AI-driven Tooling</em><br>
-  <em>Actively Studying: Red Teaming, Bug Bounty Hunting, Threat Hunting, AI Engineering, and Zero-Day Research</em><br>
+  <em>**Actively Studying:** Red Teaming, Bug Bounty Hunting, Threat Hunting, AI Engineering, and Zero-Day Research</em><br>
   <strong><em>Trajectory: Advanced Red Teaming, Tier 1 Exploit Development, and Zero-Day Research.</em></strong><br>
   <strong>Targeting: Chief Security Architect & Offensive Security Architect</strong>
 </p>
