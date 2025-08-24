@@ -22,6 +22,8 @@ My GitHub profile serves as a professional portfolio, showcasing my journey from
 
 # How I think?
 
+---
+
 ## The Adversarial Mindset
 
 I operate with a deep-seated passion for cybersecurity, viewing every system not as an impenetrable fortress, but as a challenge to be solved. This isn't just a job; it's a relentless pursuit of knowledge, driven by an unyielding desire to understand how things break. I don't see failure as a setback, I see it as invaluable intel. Each vulnerability I uncover is a blueprint for the next, more precise solution, and I leverage a deep understanding of both offensive and defensive tactics to stay one step ahead.
