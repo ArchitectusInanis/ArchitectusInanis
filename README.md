@@ -30,7 +30,7 @@ My decision to keep this project private is to protect its proprietary nature an
 
 ---
 
-# Ultimate Project
+# Omnisector
 
 Despite me creating less GitHub projects due to focusing more on learning more skills, I have developed a single project to demonstrate every single capability I have and all the skills into one project. This project is public and it will show how my code has evolved since I was 17. I am calling this project **Omnisector**.
 
