@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center">Cybersecurity Architect</h3>
+<h3 align="center">Cybersecurity Architect | Cybersecurity Research Scientist</h3>
 
 ---
 
