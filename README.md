@@ -30,7 +30,11 @@ Due to its proprietary nature and the significant competitive advantage it provi
 
 ---
 
-To view the GitHub profile I created when I was age 17 and under here is the archive link, my current GitHub profile is my 17+ projects so you can see how much I have grown, the GitHub profile also says everything I have done at that age. Click the GIF animation below to be directed to my old GitHub profile. I have achieved much since then.
+This archived portfolio contains my projects from when I was 17 and under. I created it to separate my earlier work from my current projects and to demonstrate my growth and changing philosophy in the art of hacking.
+
+To see the evolution of my skills and see how I've matured as a developer, you can visit my current GitHub profile, which showcases my work from age 17 and up.
+
+Click the GIF below to visit my archived profile.
 
 ---
 
