@@ -1,16 +1,13 @@
-## Hi there 👋
+---
 
-<!--
-**ArchitectusInanis/ArchitectusInanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">ArchitectusInanis</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Cybersecurity Polymath & Architect</strong><br>
+  <em>Specializing in Offensive Security, OS Internals, and AI-driven Tooling</em><br>
+  <em>Actively Studying: Red Teaming, Bug Bounty Hunting, Threat Hunting and Zero-Day Research</em><br>
+  <strong><em>Trajectory: Tier 1 Exploit Development & Advanced Penetration Testing at the level of Mandiant FLARE-OTF/Red-Team, Apple SEAR Red Team, Google's Project Zero/Red-Team, Microsoft MORSE, and NSA's TAO</em></strong>
+  <strong><em>Dream Job: Chief Security Architect & Offensive Security Architect</em></strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
