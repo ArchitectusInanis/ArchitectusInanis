@@ -26,7 +26,7 @@ My GitHub profile serves as a professional portfolio, showcasing my journey from
 
 ## The Adversarial Mindset
 
-I operate with a deep-seated passion for cybersecurity, viewing every system not as an impenetrable fortress, but as a challenge to be solved. This isn't just a job; it's a relentless pursuit of knowledge, driven by an living and breathing desire to understand how things break. I don't see failure as a setback, I see it as invaluable intel. Each vulnerability I uncover is a blueprint for the next, more precise solution, and I leverage a deep understanding of both offensive and defensive tactics to stay one step ahead.
+I operate with a deep-seated passion for cybersecurity, viewing every system not as an impenetrable fortress, but as a challenge to be solved. This isn't just a job; it's a relentless pursuit of knowledge, driven by a living and breathing desire to understand how things break. I don't see failure as a setback, I see it as invaluable intel. Each vulnerability I uncover is a blueprint for the next, more precise solution, and I leverage a deep understanding of both offensive and defensive tactics to stay one step ahead.
 
 My discipline is limitless, and my focus is singular: to get inside. I believe every defense has a breaking point, and with enough time and determination, I will find it. This isn't about proving a point; it’s about providing an essential service. By finding that single, critical flaw, I give organizations the power to fix it before a malicious actor does, turning a potential disaster into a strategic advantage.
 
