@@ -49,7 +49,7 @@ My journey began with a fundamental curiosity about systems, leading to a deep, 
 * **Production-Grade Engineering:** Projects like **Eclipse Shield** demonstrate my ability to engineer production-grade applications with comprehensive security, addressing the full OWASP Top 10 list.
 * **Valued Open-Source Contributor:** I actively contributed to the open-source community by reviving unmaintained projects and patching critical vulnerabilities in widely used tools.
 
-This portfolio represents my evolution from a generalist developer to a specialist in advanced offensive security. The skills, drive, and achievements documented here are the bedrock of my current work. The archive listed below was all done at the age of 17 and below.
+This portfolio represents my evolution from a generalist developer to a specialist in advanced offensive security. The skills, drive, and achievements documented here are the bedrock of my current work. The archive listed below was all done at the age of 17 and below. Click the GIF to visit the profile.
 
 <p align="center">
   <a href="https://github.com/CY83R-3X71NC710N" target="_blank" rel="noopener noreferrer">
