@@ -32,6 +32,8 @@ My discipline is limitless, and my focus is singular: to get inside. I believe e
 
 I believe true expertise lies in knowing when to collaborate. I actively leverage my limitations as a catalyst for growth, ensuring my offensive and defensive strategies are more robust by drawing on the collective intelligence of the team. I'm committed to building a close-knit network of cybersecurity professionals within the company, mentoring where I can, learning from others, and creating a force that is greater than the sum of its parts. I am dedicated to uniting the team around a shared mission, fostering a strong sense of collective purpose. I want every team member to be as passionate as me and I want to bring light to how they view security holistically. I believe a strong team is built on a foundation of collaboration and mutual respect. I see myself as a key contributor who, like a wolf in a pack, understands their role and works in unison with others to achieve our shared goals. My ability to recognize my own limitations and learn from my teammates is precisely what makes me a valuable asset to any group.
 
+---
+
 ## Force Multiplier for Your Business
 
 In a world where adversaries are using AI to amplify their attacks, a static defense is no longer enough. Your company needs more than just a security assessment; it needs a dynamic partner who can adapt to the sophisticated landscape of modern cyber threats. My role is to be that partner.
