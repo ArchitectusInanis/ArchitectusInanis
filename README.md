@@ -18,7 +18,7 @@ My primary projects on GitHub are private, serving as a dynamic portfolio of my 
 
 **ShadowStrikeOS** is not a standard hacking distribution. It's a highly optimized environment that integrates several advanced capabilities:
 
-* **AI-Driven Tooling**: Features an autonomous AI, codenamed "Hyper-Lethal Vector Project," for advanced security tasks.
+* **AI-Driven Tooling**: Features an autonomous AI, codenamed "Hyper-Lethal Vector" for advanced security tasks.
 
 * **AI Mentorship**: Includes an AI-powered assistant, "Operator-Zero" to guide and streamline complex operations.
 
