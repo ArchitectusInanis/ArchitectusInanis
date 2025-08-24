@@ -33,6 +33,7 @@ My discipline is limitless, and my focus is singular: to get inside. I believe e
 In a world where adversaries are using AI to amplify their attacks, a static defense is no longer enough. Your company needs more than just a security assessment; it needs a dynamic partner who can adapt to the sophisticated landscape of modern cyber threats. My role is to be that partner.
 
 I don't just work on your team; I become a force multiplier, protecting your company's most valuable assets and ensuring business continuity. My commitment is to save your company millions in potential damages by building a security posture that is not just secure, but resilient. The question isn't whether your company can afford me, but whether it can afford not to have someone who thinks like an adversary, acts like an expert, and operates with a singular focus on protecting your bottom line.
+
 ---
 
 ### ShadowStrikeOS
