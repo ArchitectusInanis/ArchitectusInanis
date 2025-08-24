@@ -27,6 +27,7 @@ My primary projects on GitHub are private, serving as a dynamic portfolio of my 
 * Performance Enhancements: Includes custom patches for improved user experience, such as fixing VMware Fusion copy/paste on Wayland, and pre-compiled packages for speed.
 
 Due to its proprietary nature and the significant competitive advantage it provides, this project is kept private. I am prepared to provide a video demonstration to prospective employers.
+
 ---
 
 To view the GitHub profile I created when I was age 17 and under here is the archive link, my current GitHub profile is my 17+ projects so you can see how much I have grown, the GitHub profile also says everything I have done at that age. Click the GIF animation below to be directed to my old GitHub profile. I have achieved much since then.
