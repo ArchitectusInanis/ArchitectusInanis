@@ -20,8 +20,7 @@ My GitHub profile serves as a professional portfolio, showcasing my journey from
 
 ---
 
-# How I think?
-
+<h1 align="center">How I think?/h1>
 ---
 
 ## The Adversarial Mindset
