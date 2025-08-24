@@ -18,13 +18,15 @@ My primary projects on GitHub are private, serving as a dynamic portfolio of my 
 
 **ShadowStrikeOS** is not a standard hacking distribution. It's a highly optimized environment that integrates several advanced capabilities:
 
-* AI-Driven Tooling: Features an autonomous AI, codenamed "Hyper-Lethal Vector Project," for advanced security tasks.
+* **AI-Driven Tooling**: Features an autonomous AI, codenamed "Hyper-Lethal Vector Project," for advanced security tasks.
 
-* AI Mentorship: Includes an AI-powered assistant, "Operator-Zero" to guide and streamline complex operations.
+* **AI Mentorship**: Includes an AI-powered assistant, "Operator-Zero" to guide and streamline complex operations.
 
-* Custom Security Environment: Built on the stability of Debian with Kali Linux repositories, a custom kernel, and a custom rofi menu for efficient toolkit navigation.
+* **Custom Security Environment**: Built on the stability of Debian with Kali Linux repositories, a custom kernel, and a custom rofi menu for efficient toolkit navigation.
 
-* Performance Enhancements: Includes custom patches for improved user experience, such as fixing VMware Fusion copy/paste on Wayland, and pre-compiled packages for speed.
+* **Performance Enhancements**: Includes custom patches for improved user experience, such as fixing VMware Fusion copy/paste on Wayland, and pre-compiled packages for speed.
+  
+* **More** I can and will not talk about here.
 
 Due to its proprietary nature and the significant competitive advantage it provides, this project is kept private. I am prepared to provide a video demonstration to prospective employers.
 
