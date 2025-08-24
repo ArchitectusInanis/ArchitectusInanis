@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">Cybersecurity Architect & Polymath</h1>
+<h3 align="center">Cybersecurity Architect & Polymath</h3>
 
 ---
 
