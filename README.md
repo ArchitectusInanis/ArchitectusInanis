@@ -32,9 +32,9 @@ My focus is on advanced, private development that provides a significant competi
 
 ---
 
-### Omnisector
+### The Architect Labyrinth
 
-I am dedicating more time to honing my skills and as a result, I've consolidated my expertise into a single, comprehensive public project: **Omnisector**. This project serves as a definitive showcase of my capabilities, demonstrating the full breadth of my skills and reflecting my evolution as a developer since I was 17.
+I am dedicating more time to honing my skills and as a result, I've consolidated my expertise into a single, comprehensive public project: **The Architect Labyrinth**. This project serves as a definitive showcase of my capabilities, demonstrating the full breadth of my skills and reflecting my evolution as a developer since I was 17.
 
 ---
 
