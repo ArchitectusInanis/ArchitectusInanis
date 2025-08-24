@@ -14,8 +14,19 @@
 
 ---
 
-In my past I have done much work on GitHub. Now I just use GitHub to mantain of Custom ShadowStrikeOS Operating System. This integrates autonomous AI capabilites (Nicknamed: Hyper-Lethal Vector Project), AI mentorship capabilities (Nicknamed: Operator-Zero), extensiblity of having a custom curated hacking toolkit, stability of debian, repos of Kali Linux, custom rofi kali menu searching, fixed VMware Fusion copy and paste capability on Wayland through direct patches to the operating system, custom kernel, compiled packages to ensure speed. This is not a normal hacking distribution. This is not something that script kiddies use, a script kiddie wouldn't understand how to use this distribution. This is an operating system that gives me a force muliplying competitive edge to any company I decide to work for. This is why the project is private and why I will not share it, due to my ambition.
+My primary projects on GitHub are private, serving as a dynamic portfolio of my skills I have my old CY83R-3X71NC710N profile and another highly-advanced project on this profile that demonstrates all my skills. This includes the maintenance of ShadowStrikeOS, a custom operating system designed to provide a competitive advantage in offensive security.
 
+**ShadowStrikeOS** is not a standard hacking distribution. It's a highly optimized environment that integrates several advanced capabilities:
+
+* AI-Driven Tooling: Features an autonomous AI, codenamed "Hyper-Lethal Vector Project," for advanced security tasks.
+
+* AI Mentorship: Includes an AI-powered assistant, "Operator-Zero," to guide and streamline complex operations.
+
+* Custom Security Environment: Built on the stability of Debian with Kali Linux repositories, a custom kernel, and a custom rofi menu for efficient toolkit navigation.
+
+* Performance Enhancements: Includes custom patches for improved user experience, such as fixing VMware Fusion copy/paste on Wayland, and pre-compiled packages for speed.
+
+Due to its proprietary nature and the significant competitive advantage it provides, this project is kept private. I am prepared to provide a video demonstration to prospective employers.
 ---
 
 To view the GitHub profile I created when I was age 17 and under here is the archive link, my current GitHub profile is my 17+ projects so you can see how much I have grown, the GitHub profile also says everything I have done at that age. Click the GIF animation below to be directed to my old GitHub profile. I have achieved much since then.
