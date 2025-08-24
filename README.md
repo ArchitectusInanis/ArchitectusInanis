@@ -20,7 +20,7 @@ My primary projects on GitHub are private, serving as a dynamic portfolio of my 
 
 * AI-Driven Tooling: Features an autonomous AI, codenamed "Hyper-Lethal Vector Project," for advanced security tasks.
 
-* AI Mentorship: Includes an AI-powered assistant, "Operator-Zero," to guide and streamline complex operations.
+* AI Mentorship: Includes an AI-powered assistant, "Operator-Zero" to guide and streamline complex operations.
 
 * Custom Security Environment: Built on the stability of Debian with Kali Linux repositories, a custom kernel, and a custom rofi menu for efficient toolkit navigation.
 
